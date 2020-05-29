@@ -7,4 +7,4 @@ root@kali:~#./port-scanner.py google.com
 Port: 80 is open
 ```
 for Threading basics refer:
-https://noob-atbash.github.io/
+https://noob-atbash.github.io/threads/
